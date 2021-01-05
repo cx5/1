@@ -1,4 +1,4 @@
-Git is a version control system.
+﻿Git is a version control system.
 Git is free software.
 
 第二次修改文件
@@ -10,6 +10,8 @@ Git is free software distributed under the GPL.
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
+
+上传至远程服务
 
 
 Git tracks changes.
